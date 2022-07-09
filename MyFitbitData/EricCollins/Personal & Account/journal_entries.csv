@@ -1,0 +1,7 @@
+entry_id,log_time,log_type,value,meta,entry_category,zone_offset
+36cc6a30-d3aa-11ec-b2ec-6f5ba077abaa,2022-05-14T10:20:53,MOOD,0,{platform=mobile, source=Stress},MOOD,-07:00
+4e7c7480-8d97-11ec-80d0-910b07744f71,2022-02-14T06:09:09,MOOD,0,{platform=mobile, source=Stress},MOOD,-07:00
+9f82b350-7e27-11ec-bead-bd2cccdc57bf,2022-01-25T14:41:49,MOOD,1,{platform=mobile, source=Stress, updateDatetime=2022-01-25T15:26:50.617-07:00},MOOD,-07:00
+3b3642c0-7d20-11ec-aa27-890552003f2a,2022-01-24T07:16:28,MOOD,0,{platform=mobile, source=Home},MOOD,-07:00
+ee2e3aa0-6ef6-11ec-917a-f1ae314ac31e,2022-01-06T06:45:32,MOOD,1,{platform=mobile, source=Stress Onboarding},MOOD,-07:00
+21232e40-6dd8-11ec-acc4-ad45e8433cd7,2022-01-04T20:31:13,MOOD,1,{firstSource=3, firstValue=5, logSource=0, mindfulnessSessionId=77df4580-6dd7-11ec-8080-808080808080, source=DeviceEdaSessionQuick},MOOD,-07:00

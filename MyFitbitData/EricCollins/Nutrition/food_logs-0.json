@@ -1,0 +1,699 @@
+[{
+  "logId" : 28232077889,
+  "loggedFood" : {
+    "foodId" : 692758408,
+    "locale" : "en_US",
+    "name" : "Olive Oil",
+    "brand" : "Olivio",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2022-01-12",
+  "favorite" : false
+},{
+  "logId" : 28230543468,
+  "loggedFood" : {
+    "foodId" : 692834679,
+    "locale" : "en_US",
+    "name" : "Eggs",
+    "brand" : "Vita Eggs",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 280,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 260.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2022-01-12",
+  "favorite" : false
+},{
+  "logId" : 28232755880,
+  "loggedFood" : {
+    "foodId" : 7650,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 85% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 360,
+    "amount" : 6.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2022-01-12",
+  "favorite" : false
+},{
+  "logId" : 28230258350,
+  "loggedFood" : {
+    "foodId" : 761396019,
+    "locale" : "en_US",
+    "name" : "Almonds Raw",
+    "brand" : "Walmart",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 704,
+    "amount" : 1.1,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 704,
+    "fat" : 61.6,
+    "fiber" : 17.6,
+    "carbs" : 26.4,
+    "sodium" : 0.0,
+    "protein" : 26.4
+  },
+  "logDate" : "2022-01-12",
+  "favorite" : false
+},{
+  "logId" : 28232097470,
+  "loggedFood" : {
+    "foodId" : 749511794,
+    "locale" : "en_US",
+    "name" : "Organic Oatmeal, Original",
+    "brand" : "Coach's Oats",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 640,
+    "amount" : 160.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 640,
+    "fat" : 12.0,
+    "fiber" : 16.0,
+    "carbs" : 124.0,
+    "sodium" : 0.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2022-01-12",
+  "favorite" : false
+},{
+  "logId" : 28191351423,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2022-01-08",
+  "favorite" : false
+},{
+  "logId" : 28192788098,
+  "loggedFood" : {
+    "foodId" : 7650,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 85% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 240,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2022-01-08",
+  "favorite" : false
+},{
+  "logId" : 28192335533,
+  "loggedFood" : {
+    "foodId" : 692758408,
+    "locale" : "en_US",
+    "name" : "Olive Oil",
+    "brand" : "Olivio",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2022-01-08",
+  "favorite" : false
+},{
+  "logId" : 28197153722,
+  "loggedFood" : {
+    "foodId" : 692740259,
+    "locale" : "en_US",
+    "name" : "Black Beans",
+    "brand" : "Kroger",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 385,
+    "amount" : 1.75,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 385,
+    "fat" : 1.75,
+    "fiber" : 24.5,
+    "carbs" : 66.5,
+    "sodium" : 35.0,
+    "protein" : 24.5
+  },
+  "logDate" : "2022-01-08",
+  "favorite" : false
+},{
+  "logId" : 28191951803,
+  "loggedFood" : {
+    "foodId" : 81409,
+    "locale" : "en_US",
+    "name" : "Apple",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [204,179,226,180,147,389],
+    "calories" : 80,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 204,
+      "name" : "medium",
+      "plural" : "mediums"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2022-01-08",
+  "favorite" : false
+},{
+  "logId" : 28191026680,
+  "loggedFood" : {
+    "foodId" : 692834679,
+    "locale" : "en_US",
+    "name" : "Eggs",
+    "brand" : "Vita Eggs",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 280,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 260.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2022-01-08",
+  "favorite" : false
+},{
+  "logId" : 28191391005,
+  "loggedFood" : {
+    "foodId" : 5548728,
+    "locale" : "en_US",
+    "name" : "Burrito Ingredient, Flour Tortilla",
+    "brand" : "Chipotle Mexican Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [359],
+    "calories" : 580,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 359,
+      "name" : "tortilla",
+      "plural" : "tortillas"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28192187937,
+  "loggedFood" : {
+    "foodId" : 5548511,
+    "locale" : "en_US",
+    "name" : "Burrito Bowl Ingredient, Black Beans",
+    "brand" : "Chipotle Mexican Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 240,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5,
+    "creatorEncodedId" : "26BN3F"
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28192846806,
+  "loggedFood" : {
+    "foodId" : 6548,
+    "locale" : "en_US",
+    "name" : "Chipotle Grilled Chicken",
+    "brand" : "Chipotle Mexican Grill",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 219,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28191784157,
+  "loggedFood" : {
+    "foodId" : 14032116,
+    "locale" : "en_US",
+    "name" : "Brown Rice",
+    "brand" : "Chipotle",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 210,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 5
+  },
+  "nutritionalValues" : {
+    "calories" : 210,
+    "fat" : 6.0,
+    "fiber" : 2.0,
+    "carbs" : 36.0,
+    "sodium" : 190.0,
+    "protein" : 4.0
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28186223375,
+  "loggedFood" : {
+    "foodId" : 788211275,
+    "locale" : "en_US",
+    "name" : "Creamy Vanilla Simple Plant Protein Powder",
+    "brand" : "Orgain",
+    "accessLevel" : "PUBLIC",
+    "units" : [301,226,180,147,389],
+    "calories" : 150,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 301,
+      "name" : "scoop",
+      "plural" : "scoops"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 310.0,
+    "protein" : 20.0
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28187275686,
+  "loggedFood" : {
+    "foodId" : 749511794,
+    "locale" : "en_US",
+    "name" : "Organic Oatmeal, Original",
+    "brand" : "Coach's Oats",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 640,
+    "amount" : 160.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 3
+  },
+  "nutritionalValues" : {
+    "calories" : 640,
+    "fat" : 12.0,
+    "fiber" : 16.0,
+    "carbs" : 124.0,
+    "sodium" : 0.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28185630277,
+  "loggedFood" : {
+    "foodId" : 692758408,
+    "locale" : "en_US",
+    "name" : "Olive Oil",
+    "brand" : "Olivio",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364],
+    "calories" : 120,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 120,
+    "fat" : 14.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28186800976,
+  "loggedFood" : {
+    "foodId" : 7650,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 85% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 480,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28186299127,
+  "loggedFood" : {
+    "foodId" : 692834679,
+    "locale" : "en_US",
+    "name" : "Eggs",
+    "brand" : "Vita Eggs",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 280,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 260.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28186941437,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2022-01-07",
+  "favorite" : false
+},{
+  "logId" : 28174333191,
+  "loggedFood" : {
+    "foodId" : 692834679,
+    "locale" : "en_US",
+    "name" : "Eggs",
+    "brand" : "Vita Eggs",
+    "accessLevel" : "PUBLIC",
+    "units" : [111,226,180,147,389],
+    "calories" : 280,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 111,
+      "name" : "egg",
+      "plural" : "eggs"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 280,
+    "fat" : 20.0,
+    "fiber" : 0.0,
+    "carbs" : 4.0,
+    "sodium" : 260.0,
+    "protein" : 24.0
+  },
+  "logDate" : "2022-01-06",
+  "favorite" : false
+},{
+  "logId" : 28175090446,
+  "loggedFood" : {
+    "foodId" : 7650,
+    "locale" : "en_US",
+    "name" : "Ground Beef, Raw, 85% Lean",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 240,
+    "amount" : 4.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2022-01-06",
+  "favorite" : false
+},{
+  "logId" : 28182174544,
+  "loggedFood" : {
+    "foodId" : 749511794,
+    "locale" : "en_US",
+    "name" : "Organic Oatmeal, Original",
+    "brand" : "Coach's Oats",
+    "accessLevel" : "PUBLIC",
+    "units" : [91,256,279,226,180,147,389],
+    "calories" : 485,
+    "amount" : 1.0,
+    "unit" : {
+      "id" : 91,
+      "name" : "cup",
+      "plural" : "cups"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 485,
+    "fat" : 9.09,
+    "fiber" : 12.12,
+    "carbs" : 93.94,
+    "sodium" : 0.0,
+    "protein" : 18.18
+  },
+  "logDate" : "2022-01-06",
+  "favorite" : false
+},{
+  "logId" : 28181780917,
+  "loggedFood" : {
+    "foodId" : 788211275,
+    "locale" : "en_US",
+    "name" : "Creamy Vanilla Simple Plant Protein Powder",
+    "brand" : "Orgain",
+    "accessLevel" : "PUBLIC",
+    "units" : [301,226,180,147,389],
+    "calories" : 150,
+    "amount" : 2.0,
+    "unit" : {
+      "id" : 301,
+      "name" : "scoop",
+      "plural" : "scoops"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 150,
+    "fat" : 3.0,
+    "fiber" : 1.0,
+    "carbs" : 10.0,
+    "sodium" : 310.0,
+    "protein" : 20.0
+  },
+  "logDate" : "2022-01-06",
+  "favorite" : false
+},{
+  "logId" : 28181568697,
+  "loggedFood" : {
+    "foodId" : 692758408,
+    "locale" : "en_US",
+    "name" : "Olive Oil",
+    "brand" : "Olivio",
+    "accessLevel" : "PUBLIC",
+    "units" : [349,364],
+    "calories" : 360,
+    "amount" : 3.0,
+    "unit" : {
+      "id" : 349,
+      "name" : "tbsp",
+      "plural" : "tbsp"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 360,
+    "fat" : 42.0,
+    "fiber" : 0.0,
+    "carbs" : 0.0,
+    "sodium" : 0.0,
+    "protein" : 0.0
+  },
+  "logDate" : "2022-01-06",
+  "favorite" : false
+},{
+  "logId" : 28180269531,
+  "loggedFood" : {
+    "foodId" : 731422736,
+    "locale" : "en_US",
+    "name" : "Angel Hair",
+    "brand" : "Banza",
+    "accessLevel" : "PUBLIC",
+    "units" : [226,180,147,389],
+    "calories" : 760,
+    "amount" : 8.0,
+    "unit" : {
+      "id" : 226,
+      "name" : "oz",
+      "plural" : "oz"
+    },
+    "mealTypeId" : 1
+  },
+  "nutritionalValues" : {
+    "calories" : 760,
+    "fat" : 14.0,
+    "fiber" : 32.0,
+    "carbs" : 128.0,
+    "sodium" : 240.0,
+    "protein" : 56.0
+  },
+  "logDate" : "2022-01-06",
+  "favorite" : false
+},{
+  "logId" : 28182164733,
+  "loggedFood" : {
+    "foodId" : 81000,
+    "locale" : "en_US",
+    "name" : "Banana",
+    "brand" : "",
+    "accessLevel" : "PUBLIC",
+    "units" : [16,121,120,304,319,204,179,91,256,279,226,180,147,389],
+    "calories" : 90,
+    "amount" : 100.0,
+    "unit" : {
+      "id" : 147,
+      "name" : "gram",
+      "plural" : "grams"
+    },
+    "mealTypeId" : 1
+  },
+  "logDate" : "2022-01-06",
+  "favorite" : false
+}]

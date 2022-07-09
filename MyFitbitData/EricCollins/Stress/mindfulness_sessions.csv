@@ -1,0 +1,2 @@
+session_id,activity_name,average_heart_rate,start_heart_rate,end_heart_rate,duration,start_date_time,end_date_time,session_type,stress_metrics,pause_times
+77df4580-6dd7-11ec-8080-808080808080,Quick scan,null,63,69,180000,2022-01-04T20:27:53-07:00,2022-01-04T20:30:59-07:00,quick-scan,{meanScore=-1  derivScore=-1  peakScore=-1  hrvBaseline=0  hrvSessionRsmmd=-1  Score6=-1},[[46]]
